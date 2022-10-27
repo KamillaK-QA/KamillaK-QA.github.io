@@ -1,2 +1,2 @@
 # KamillaK-QA.github.io
-Мой сайт-визитка
+Мой сайт-визитка (HTML,CSS,JS)
